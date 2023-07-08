@@ -1,7 +1,7 @@
 # live-web-code-editor
 
-hello there, your task is to implement auto-save functionality with localStorage, and auto-load the saved code when user revisits or refreshes the page.
+Hello there, this is a task <a href="http://github.com/intern2grow/">@intern2grow</a> to implement auto-save functionality with localStorage, and auto-load the saved code when user revisits or refreshes the page.
 
-fork the repository and start working on it.
+<a href="http://omarsha6an.github.io/live-web-code-editor">Live Demo</a>
 
-best of luck.
+Goodbye!
